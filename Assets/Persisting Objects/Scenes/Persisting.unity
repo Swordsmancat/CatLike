@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.13518654, g: 0.14576891, b: 0.13797712, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1348,13 +1348,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shapeFactory: {fileID: 11400000, guid: fe04966391e7e334896438c963bc5eef, type: 2}
+  reseedOnLoad: 1
+  creationSpeedSlider: {fileID: 1336812100}
+  destructionSpeedSilder: {fileID: 1015107593}
   storage: {fileID: 1327005975}
   createKey: 99
   newGameKey: 110
   saveKey: 115
   loadKey: 108
   destroyKey: 120
-  levelCount: 2
+  levelCount: 4
 --- !u!4 &1603878443
 Transform:
   m_ObjectHideFlags: 0

@@ -3,7 +3,11 @@ sceneSetups:
   isLoaded: 1
   isActive: 1
   isSubScene: 0
-- path: Assets/Persisting Objects/Scenes/Level 1.unity
+- path: Assets/Persisting Objects/Scenes/Level 4.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Persisting Objects/Scenes/Level 3.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0

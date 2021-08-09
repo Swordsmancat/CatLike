@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Persisting Objects/Scenes/Level 2.unity
     guid: 74ef2ae68a9a0be44a1856c843bd1181
+  - enabled: 1
+    path: Assets/Persisting Objects/Scenes/Level 3.unity
+    guid: 00ea6c0f0018f494d8329b37441c74fb
   m_configObjects: {}
